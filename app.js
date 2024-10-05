@@ -4,7 +4,6 @@ function pesquisar() {
   let campoPesquisa = document.getElementById("campo-pesquisa").value.toLowerCase();
   // Inicializa uma string vazia para armazenar os resultados
   let resultado = "";
-
   // Itera sobre cada dado na lista de dados
   for (let dado of dados) {
     let tag = dado.tags.toLowerCase()
@@ -46,3 +45,19 @@ function pesquisar() {
   // Atribui o HTML gerado à seção de resultados
   section.innerHTML = resultado;
 }
+// dados.sort().reverse();
+// function ordenarGols(a,b){
+//   return a.gols - b.gols;
+// }
+// function ordenarNome(a,b){
+//   return a.nome - b.nome;
+// }
+// function ordenarAssistencias(a,b){
+//   return a.assistencias - b.assistencias;
+// }
+// function ordenarIdade(a,b){
+//   return a.idade - b.idade;
+// }
+// function ordenarTitulos(a,b){
+//   return a.titulos - b.titulos;
+// }

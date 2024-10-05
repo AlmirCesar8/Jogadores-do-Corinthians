@@ -166,6 +166,7 @@ let dados = [
         penal_def: 4,
         gols_sofri: 14,
         gols: 0,
+        assistencias: 0,
         tags: "sousa",
         foto: "hugo_souza.png"
     },
@@ -252,6 +253,7 @@ let dados = [
         penal_def: 1,
         gols_sofri: 24,
         gols: 0,
+        assistencias: 0,
         tags: "cria do terrão terrao mateus doneli",
         foto: "matheus_donelli.png",
     },
