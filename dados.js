@@ -51,23 +51,6 @@ let dados = [
     },
 
     {
-        nome: "Caetano",
-        descricao: "Um 'cria do terrão' que vem se destacando no profissional. Revelado nas categorias de base, Apesar da pouca idade, o zagueiro conquistou seu espaço no time principal, por um período, com sua técnica apurada, visão de jogo e bom passe. Sua versatilidade permite atuar tanto como zagueiro central quanto como lateral esquerdo, agregando ainda mais valor ao elenco. Com grande potencial, o jovem defensor é visto como uma das 'promessas' do futebol brasileiro.",
-        insta: "https://www.instagram.com/caetano99/",
-        wiki: "https://www.transfermarkt.com.br/caetano/profil/spieler/625345",
-        nacionalidade: "Brasileiro",
-        idade: 25,
-        camisa: 4,
-        posicao: "zagueiro",
-        jogos: 36,
-        titulos: 0,
-        gols: 0,
-        assistencias: 0,
-        tags: "cria do terrão terrao",
-        foto: "caetano.png",
-    },
-
-    {
         nome: "Diego Palacios",
         descricao: "Diego José Palacios Espinoza é um talentoso lateral-esquerdo equatoriano. Ele começou sua carreira no Aucas, do Equador, e teve passagens pelo Willem II, da Holanda, e pelo Los Angeles FC, dos Estados Unidos. Em 2024, Palacios foi contratado pelo Corinthians, onde rapidamente se destacou, porém se machucou logo em sua primeira partida no clube. Conhecido por sua velocidade e habilidade defensiva, ele também tem experiência internacional, tendo jogado pela seleção equatoriana na Copa do Mundo de 2022.",
         insta: "https://www.instagram.com/chiquipalacios12/",
@@ -82,23 +65,6 @@ let dados = [
         assistencias: 0,
         tags: "",
         foto: "palacios.png",
-    },
-
-    {
-        nome: "Fagner",
-        descricao: "Revelado nas categorias de base do Corinthians e passagens pela Seleção Brasileira, o jogador acumula passagens por outros clubes, mas sempre retorna ao Timão. Sua identificação com o clube, com sua entrega e raça, sua versatilidade e sua experiência em campo o tornam um dos pilares da equipe. Com diversos títulos conquistados, incluindo Campeonatos Brasileiros e Paulistas, Fagner é peça fundamental no esquema tático do Corinthians e um dos líderes do elenco. Sua trajetória no clube é marcada por diversos momentos memoráveis.",
-        insta: "https://www.instagram.com/fagneroficial23/",
-        wiki: "https://pt.wikipedia.org/wiki/Fagner_(futebolista)",
-        nacionalidade: "Brasileiro",
-        idade: 34,
-        camisa: 23,
-        posicao: "lateral direito",
-        jogos: 571,
-        titulos: 5,
-        gols: 12,
-        assistencias: 67,
-        tags: "cria do terrão terrao",
-        foto: "fagner.png",
     },
 
     {
@@ -325,5 +291,41 @@ let dados = [
         tags: "",
         foto: "yuri_alberto.png",
     },
+
+
+
+    // {
+    //     nome: "Caetano",
+    //     descricao: "Um 'cria do terrão' que vem se destacando no profissional. Revelado nas categorias de base, Apesar da pouca idade, o zagueiro conquistou seu espaço no time principal, por um período, com sua técnica apurada, visão de jogo e bom passe. Sua versatilidade permite atuar tanto como zagueiro central quanto como lateral esquerdo, agregando ainda mais valor ao elenco. Com grande potencial, o jovem defensor é visto como uma das 'promessas' do futebol brasileiro.",
+    //     insta: "https://www.instagram.com/caetano99/",
+    //     wiki: "https://www.transfermarkt.com.br/caetano/profil/spieler/625345",
+    //     nacionalidade: "Brasileiro",
+    //     idade: 25,
+    //     camisa: 4,
+    //     posicao: "zagueiro",
+    //     jogos: 36,
+    //     titulos: 0,
+    //     gols: 0,
+    //     assistencias: 0,
+    //     tags: "cria do terrão terrao",
+    //     foto: "caetano.png",
+    // },
+
+    // {
+    //     nome: "Fagner",
+    //     descricao: "Revelado nas categorias de base do Corinthians e passagens pela Seleção Brasileira, o jogador acumula passagens por outros clubes, mas sempre retorna ao Timão. Sua identificação com o clube, com sua entrega e raça, sua versatilidade e sua experiência em campo o tornam um dos pilares da equipe. Com diversos títulos conquistados, incluindo Campeonatos Brasileiros e Paulistas, Fagner é peça fundamental no esquema tático do Corinthians e um dos líderes do elenco. Sua trajetória no clube é marcada por diversos momentos memoráveis.",
+    //     insta: "https://www.instagram.com/fagneroficial23/",
+    //     wiki: "https://pt.wikipedia.org/wiki/Fagner_(futebolista)",
+    //     nacionalidade: "Brasileiro",
+    //     idade: 34,
+    //     camisa: 23,
+    //     posicao: "lateral direito",
+    //     jogos: 571,
+    //     titulos: 5,
+    //     gols: 12,
+    //     assistencias: 67,
+    //     tags: "cria do terrão terrao",
+    //     foto: "fagner.png",
+    // },
 
 ];
